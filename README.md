@@ -34,3 +34,7 @@ Models were evaluated using multi-class confusion matrices to track exact score 
 
 ## 💡 Conclusion
 The console a game is released on holds predictive power over its final score. Advanced models like SVM and KNN are highly capable of capturing these complex data patterns without error in the test subsets, providing a robust toolset for analyzing video game success metrics.
+
+## 📁 Repository Structure
+* `video-game-score-prediction-console-analysis.ipynb`: The complete Python codebase containing data preprocessing, feature scaling, model training, evaluation metrics, and confusion matrix visualizations.
+* `Games.csv`: The dataset used for model training and testing.
